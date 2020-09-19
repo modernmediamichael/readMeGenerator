@@ -1,0 +1,14 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "This is an application that generates a Read Me file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
